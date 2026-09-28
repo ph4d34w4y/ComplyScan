@@ -1,0 +1,9 @@
+# Install only the packages needed for the formats you scan.
+openpyxl
+pdfplumber
+pypdf
+xlrd
+odfpy
+pyarrow
+python-evtx
+PyYAML
